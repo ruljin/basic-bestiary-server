@@ -1,0 +1,19 @@
+{
+  "name": "basic-bestiary-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruljin/basic-bestiary-server.git"
+  },
+  "author": "Filip Kuca aka Ruljin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruljin/basic-bestiary-server/issues"
+  },
+  "homepage": "https://github.com/ruljin/basic-bestiary-server#readme"
+}
